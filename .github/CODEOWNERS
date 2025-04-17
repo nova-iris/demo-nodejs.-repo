@@ -1,0 +1,11 @@
+# Everyone in the project should review any file
+* @trongtruong2509
+
+# Specific maintainers for docs
+/docs/ @opensource-org/docs-team
+
+# Specific owners for the backend code
+/backend/ @opensource-org/backend-team
+
+# Frontend owners
+/frontend/ @opensource-org/frontend-team
